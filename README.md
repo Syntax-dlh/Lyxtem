@@ -3,20 +3,20 @@
 
 
 ```python
-┌──(Lyxtem@root)-[~/]
-└─$ cat Lyxtem.py
+┌──(Syntax-dlh@root)-[~/]
+└─$ cat Syntax-dlh.py
 
 class Lyxtem:
 
 def  __social__(self):
- self.gtb = "https://github.com/Lyxtem"
+ self.gtb = "https://github.com/Syntax-dlh"
  self.dsc = "Lyxtem#0139" 
  self.tlg = "..."
   
- ┌──(Lyxtem@root)-[~/]
+ ┌──(Syntax-dlh@root)-[~/]
  └─$
 ```
-<p align="center"><img src="https://count.getloli.com/get/@:Lyxtem" alt=":Lyxtem" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:Syntax-dlh" alt=":Syntax-dlh" /></p>
 
  
 
